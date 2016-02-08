@@ -1,8 +1,7 @@
-# MailBox Library
-
+work in progress... don't use this right now...
 
 
 
 ```html
-<mail-box data="{{lala}}"></mailbox>
+
 ```
